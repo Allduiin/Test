@@ -1,0 +1,13 @@
+Index: src/main/java/MyHotFicks.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/MyHotFicks.java	(date 1584872713368)
++++ src/main/java/MyHotFicks.java	(date 1584872713368)
+@@ -0,0 +1,5 @@
++public class MyHotFicks {
++    public static void main(String[] args) {
++
++    }
++}
